@@ -2,6 +2,9 @@
 
 This is a website made with [Github Pages](https://pages.github.com/)
 
+<button onclick="document.getElementById('fontFile').click()">Choose file</button>
+<span id="fontFileName">No file chosen</span>
+
 ### Reminder
 
 This just reminds me how to format and make this website.
