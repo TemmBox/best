@@ -1,6 +1,6 @@
 ## Welcome
 
-This is a website made with [Github Pages](https://pages.github.com)
+This is a website made with [Github Pages](https://pages.github.com/)
 
 ### Reminder
 
